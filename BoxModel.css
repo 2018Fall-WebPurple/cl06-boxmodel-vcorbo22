@@ -1,0 +1,33 @@
+/*
+* Victoria Corbo
+* Due Date
+* Box Model
+*/
+
+/* The universal selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    border: 2px dotted green;
+    height: 300px;
+}
+
+main {
+    border: 3px solid blue;
+    margin: 10px 10px;
+}
+
+h1 {
+    border: thin dashed red;
+    padding: 15px 10px;
+    margin: 15px 5px;
+}
+
+p {
+    border: thin dashed purple;
+    padding: 10px 5px;
+    margin: 10px 5px;
+}
